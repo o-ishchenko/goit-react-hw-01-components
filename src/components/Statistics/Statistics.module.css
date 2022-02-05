@@ -1,7 +1,9 @@
 .statistic {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
   text-align: center;
   width: 300px;
-  margin: 20px;
   border: 1px solid gray;
 }
 .title {
