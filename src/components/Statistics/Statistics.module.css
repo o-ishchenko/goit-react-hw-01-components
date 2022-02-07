@@ -1,7 +1,5 @@
 .statistic {
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 20px;
+  margin: 20px auto;
   text-align: center;
   width: 300px;
   border: 1px solid gray;

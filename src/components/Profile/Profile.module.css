@@ -1,8 +1,6 @@
 .profile {
   width: 200px;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 20px;
+  margin: 20px auto;
   border: 1px solid gray;
 }
 .description {
